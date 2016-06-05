@@ -1,5 +1,7 @@
 # WINFOspace/Blog
 
+[![Join the chat at https://gitter.im/WINFOspace/Blog](https://badges.gitter.im/WINFOspace/Blog.svg)](https://gitter.im/WINFOspace/Blog?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Stories in Ready](https://img.shields.io/waffle/label/WINFOspace/issues/ready.svg?maxAge=3600)][issues]
 [![Stories in Progress](https://img.shields.io/waffle/label/WINFOspace/issues/in%20progress.svg?maxAge=3600)][issues]
 [![Stories in Review](https://img.shields.io/waffle/label/WINFOspace/issues/in%20review.svg?maxAge=3600)][issues]  
